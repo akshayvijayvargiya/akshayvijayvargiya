@@ -17,8 +17,10 @@
 </p>
 
 
+<h3 align= "center"><img src="avatar.png" alt="avatar"/></h3>
+
 <h3 align="center">
-  👷🏼 Here are some technologies I use on a daily basis:
+  👷🏼 Every day, I find myself working with the following technologies:
 </h3>
 <p align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60"/>&nbsp;&nbsp;
@@ -61,10 +63,15 @@ So, if you're into creating tech that changes the game, or if you just want to n
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
+<br>
+
+
    
 
 
 <h3 align="center">🤝 Connect with me</h3>
+<br>
+
 <p align="center">
 <a href="https://github.com/akshayvijayvargiya" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="i_am_zehan" height="30" /></a>&nbsp;&nbsp; 
